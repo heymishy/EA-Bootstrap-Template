@@ -1,0 +1,24 @@
+
+.bs-sidebar .nav {
+padding-top: 3px;
+padding-bottom: 3px;
+padding-left: 30px;
+font-size: 90%;
+}
+
+.bs-sidenav {
+margin-top: 10px;
+margin-bottom: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-shadow: 0 1px 0 #fff;
+border-radius: 5px;
+}
+
+p {
+font-family: "Helvetica Neue", Helvetica;
+}
+
+#myTab li>a {
+font-weight: bold;
+}
